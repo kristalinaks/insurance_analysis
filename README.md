@@ -5,6 +5,8 @@ Dalam project ini dilakukan analisis dari dataset tagihan kesehatan personal men
 
 Dataset: Dataset Insurance.csv
 
+Hitungan: hitungan.xlsx
+
 Analisis: Probability Project Insurance.pptx
 
 Video presentasi: https://youtu.be/2P76Nk6uNZg
